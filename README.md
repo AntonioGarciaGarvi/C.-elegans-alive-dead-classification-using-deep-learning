@@ -3,6 +3,8 @@
 The automation of lifespan assays with *C. elegans* cultured in standard Petri dishes is a challenging problem, as there are several problems that hinder detection: occlusions at the edges of the plate, accumulation of dirt, aggregations of worms, etc. In addition, determining whether a worm is alive or dead can be complex as the last few days they hardly move.
 
 In this project we propose a method that combines traditional computer vision techniques with an alive/dead *C. elegans* classifier based on convolutional and recurrent neural networks from low-resolution images. 
+![GitHub Logo](https://github.com/AntonioGarciaGarvi/C.-elegans-alive-dead-classification-using-deep-learning/blob/main/NN.bmp)
+
 ## Alive or dead *C. elegans* classification demo
 This repository includes a demo that allows you to see how our model is able to classify a *C. elegans* as alive or dead using a sequence of three images corresponding to the current day, the day before and the day after.
 
