@@ -8,7 +8,7 @@ In this project we propose a method that combines traditional computer vision te
 ## Alive or dead *C. elegans* classification demo
 This repository includes a demo that allows you to see how our model is able to classify a *C. elegans* as alive or dead using a sequence of three images corresponding to the current day, the day before and the day after.
 
-Run the demo in [google colab]
+Run the demo in [google colab](https://github.com/AntonioGarciaGarvi/C.-elegans-alive-dead-classification-using-deep-learning/blob/main/C_elegans_alive_dead_demo.ipynb)
 
 ## Image adquisition system:
 Images were captured by an [open hardware system](https://github.com/JCPuchalt/c-elegans_smartLight).
