@@ -4,7 +4,8 @@ The automation of lifespan assays with *C. elegans* cultured in standard Petri d
 
 In this project we propose a method that combines traditional computer vision techniques with an alive/dead *C. elegans* classifier based on convolutional and recurrent neural networks from low-resolution images. 
 ![GitHub Logo](https://github.com/AntonioGarciaGarvi/C.-elegans-alive-dead-classification-using-deep-learning/blob/main/NN.bmp)
-
+## Research article
+García Garví, A.; Puchalt, J.C.; Layana Castro, P.E.; Navarro Moya, F.; Sánchez-Salmerón, A.-J. Towards Lifespan Automation for Caenorhabditis elegans Based on Deep Learning: Analysing Convolutional and Recurrent Neural Networks for Dead or Live Classification. Sensors 2021, 21, 4943.[doi](https://doi.org/10.3390/s21144943)
 ## Alive or dead *C. elegans* classification demo
 This repository includes a demo that allows you to see how our model is able to classify a *C. elegans* as alive or dead using a sequence of three images corresponding to the current day, the day before and the day after.
 
